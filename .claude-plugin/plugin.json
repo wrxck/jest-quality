@@ -1,0 +1,12 @@
+{
+  "name": "jest-quality",
+  "version": "1.0.0",
+  "description": "Enforce Jest best practices - proper mock typing, jest.mocked() patterns",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/jest-quality",
+  "license": "MIT",
+  "keywords": ["jest", "testing", "mocks", "typescript", "best-practices"]
+}
