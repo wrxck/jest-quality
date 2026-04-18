@@ -1,5 +1,7 @@
 # jest-quality
 
+[![CI](https://github.com/wrxck/jest-quality/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/jest-quality/actions/workflows/ci.yml)
+
 Enforce Jest testing best practices in Claude Code sessions.
 
 ## What it checks
